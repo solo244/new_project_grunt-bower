@@ -6,8 +6,8 @@
 3. Run `npm install` to get your node_modules (default **.gitignore**)
 4. Run `npm install grunt-postcss pixrem autoprefixer-core cssnano`
 5. Run `bower install`
-5. Check `Gruntfile.js` and look at **//Change** comments (settings at the top)
-6. Run `grunt` to start developing
+6. Check `Gruntfile.js` and look at **//Change** comments (settings at the top)
+7. Run `grunt` to start developing
 
 ## Organisation
 - **Dev:** Add any and all `development` content here. `Jade` for html templates
