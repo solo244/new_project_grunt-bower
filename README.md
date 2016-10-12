@@ -1,4 +1,4 @@
-# Working with Grunt and Bower
+# Working with Grunt and Bower v1.0
 
 ## Set up
 1. Clone files to a new directory
